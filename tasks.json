@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build-budget-tracker",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-g",
+        "main.cpp",
+        "budget_tracker.cpp",
+        "-o",
+        "budget-tracker.out"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
