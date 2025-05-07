@@ -17,5 +17,4 @@ Build and Run (VS Code)
 2. Open folder in **VS Code**
 3. Press **F5** or run `Ctrl+Shift+B` to compile
 4. Uses `g++`
-Output file
-Saves to: `budget_data.txt`
+Output file saves to: `budget_data.txt`
