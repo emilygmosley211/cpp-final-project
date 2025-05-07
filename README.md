@@ -16,7 +16,6 @@ Build and Run (VS Code)
 1. Clone this repository
 2. Open folder in **VS Code**
 3. Press **F5** or run `Ctrl+Shift+B` to compile
-4. Uses `g++`, so install [MinGW](https://www.mingw-w64.org/) or WSL if on Windows
-
+4. Uses `g++`
 Output file
 Saves to: `budget_data.txt`
